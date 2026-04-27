@@ -1,22 +1,22 @@
 const projectsData = [
   {
     id: 1,
-    name: "Movie Time",
+    name: "BookMyShow Clone",
     category: "MERN",
     description:
       "Full stack movie ticket booking application with AI-powered smart movie suggestions.",
-    technologies: ["ReactJS", "ExpressJS", "MongoDB"],
-    status: "Live",
+    technologies: ["ReactJS", "ExpressJS", "MongoDB", "NodeJS"],
+    status: "Demo",
     liveDemo: "#",
     github: "#"
   },
   {
     id: 2,
-    name: "Gola",
+    name: "Medical AI Chatbot",
     category: "MERN",
     description:
-      "Cab booking platform that helps users quickly book rides for daily travel.",
-    technologies: ["ReactJS", "ExpressJS", "MongoDB"],
+      "AI-powered chatbot for providing medical information and assistance.",
+    technologies: ["HTML","CSS","JS"],
     status: "Live",
     liveDemo: "#",
     github: "#"
@@ -34,12 +34,12 @@ const projectsData = [
   },
   {
     id: 4,
-    name: "Developer Stats Dashboard",
-    category: "JavaScript",
+    name: "Fetal Cerebellum in 2D Ultrasound",
+    category: "Python",
     description:
-      "Dynamic dashboard that loads developer statistics and profile insights using Fetch API.",
-    technologies: ["JavaScript", "Fetch API", "JSON"],
-    status: "Demo",
+      "AI-powered tool for analyzing fetal cerebellum in 2D ultrasound images to assist in prenatal diagnosis.",
+    technologies: ["Python", "OpenCV", "NumPy"],
+    status: "Live",
     liveDemo: "#",
     github: "#"
   }
