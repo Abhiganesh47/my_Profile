@@ -46,7 +46,7 @@ const portfolioData = {
       degree: "Pre-University (CBSE)",
       institution: "Sri Chaitanya, Bangalore",
       year: "2020 – 2022",
-      grade: "67% (PCMC)",
+      grade: "",
       highlights: [],
       icon: "🛠️"
     },
@@ -54,7 +54,7 @@ const portfolioData = {
       degree: "Schooling (CBSE)",
       institution: "Kendriya Vidyalaya-Hebbal, Bangalore",
       year: "2011 – 2020",
-      grade: "54% (10th)",
+      grade: "",
       highlights: [],
       icon: "⚡"
     }
