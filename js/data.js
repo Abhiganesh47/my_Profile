@@ -14,9 +14,9 @@ const portfolioData = {
     twitter: "https://twitter.com/",
     resume: "#",
     stats: [
-      { num: "0+", label: "Years Exp." },
-      { num: "5+", label: "Projects" },
-      { num: "0+", label: "Clients" }
+      // { num: "0+", label: "Years Exp." },
+      // { num: "5+", label: "Projects" },
+      // { num: "0+", label: "Clients" }
     ],
     typingPhrases: [
       "Full Stack Developer",
@@ -132,15 +132,15 @@ const portfolioData = {
     }
   ],
 
-  skillBars: [
-    { label: "HTML & CSS ", pct: 89 },
-    { label: "JavaScript", pct: 75 },
-    { label: "React", pct: 12 },
-    { label: "Node.js", pct: 42 },
-    { label: "Python", pct: 68 },
-    { label: "C and C++", pct: 50 },
-    { label: "AI / ML Integration", pct: 80 }
-  ],
+  // skillBars: [
+  //   { label: "HTML & CSS ", pct: 89 },
+  //   { label: "JavaScript", pct: 75 },
+  //   { label: "React", pct: 12 },
+  //   { label: "Node.js", pct: 42 },
+  //   { label: "Python", pct: 68 },
+  //   { label: "C and C++", pct: 50 },
+  //   { label: "AI / ML Integration", pct: 80 }
+  // ],
 
   projects: [
     // {

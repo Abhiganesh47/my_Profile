@@ -191,14 +191,14 @@ const Renderer = (() => {
         <div class="project-stack">
           ${p.stack.map(s => `<span class="tag active">${s}</span>`).join("")}
         </div>
-        <div class="project-links">
-          <a href="${p.live}" class="project-link">↗ Live</a>
-          <a href="${p.github}" class="project-link">⌥ GitHub</a>
-        </div>
       `;
       grid.appendChild(card);
     });
   }
+        // <div class="project-links">
+        // <a href="${p.live}" class="project-link">↗ Live</a>
+        // <a href="${p.github}" class="project-link">⌥ GitHub</a>
+        // </div>
 
   // Contact links
   function renderContact(personal) {
